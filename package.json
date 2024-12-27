@@ -1,0 +1,39 @@
+{
+  "name": "building-visualization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://Kechuan-ln.github.io/pvvisualization",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@deck.gl/layers": "^9.0.38",
+    "@deck.gl/react": "^9.0.38",
+    "gh-pages": "^6.2.0",
+    "mapbox-gl": "^3.9.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-map-gl": "^7.1.8",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^4.2.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
