@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pvvisualization/static/js/main.495e9a8e.js",
+    "index.html": "/pvvisualization/index.html",
+    "main.495e9a8e.js.map": "/pvvisualization/static/js/main.495e9a8e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.495e9a8e.js"
+  ]
+}
